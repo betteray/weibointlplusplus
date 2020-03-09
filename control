@@ -1,9 +1,11 @@
-Package: me.ray.weibointl++
+Package: me.thepapaya.weibointl
 Name: weibo.intl++
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Make WeiboIntl a real DarkMode Look.
 Maintainer: ray
 Author: ray
 Section: Tweaks
+Depiction: https://thepapaya.me/cydia/depictions/?p=me.thepapaya.weibointl
+
